@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sw on Matthew Fabian</title>
+    <link>http://www3.nd.edu/~mfabian1/tags/sw/</link>
+    <description>Recent content in Sw on Matthew Fabian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Matthew Fabian</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~mfabian1/tags/sw/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>External Project</title>
+      <link>http://www3.nd.edu/~mfabian1/project/bookmarks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www3.nd.edu/~mfabian1/project/bookmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://www3.nd.edu/~mfabian1/project/hackathon-2017/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www3.nd.edu/~mfabian1/project/hackathon-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://www3.nd.edu/~mfabian1/project/poker/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www3.nd.edu/~mfabian1/project/poker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://www3.nd.edu/~mfabian1/project/wordsearch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www3.nd.edu/~mfabian1/project/wordsearch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

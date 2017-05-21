@@ -11,7 +11,25 @@
     <atom:link href="/~mfabian1/project/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Deep Learning</title>
+      <title>Bookmark Webpage</title>
+      <link>http://www3.nd.edu/~mfabian1/project/bookmarks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www3.nd.edu/~mfabian1/project/bookmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43; Chess Game</title>
+      <link>http://www3.nd.edu/~mfabian1/project/chess/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www3.nd.edu/~mfabian1/project/chess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric Village</title>
       <link>http://www3.nd.edu/~mfabian1/project/electric-village/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -29,16 +47,7 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>http://www3.nd.edu/~mfabian1/project/bookmarks/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www3.nd.edu/~mfabian1/project/bookmarks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
+      <title>Information Overload Hackathon 2017 - VoGo</title>
       <link>http://www3.nd.edu/~mfabian1/project/hackathon-2017/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -47,20 +56,11 @@
     </item>
     
     <item>
-      <title>External Project</title>
+      <title>MATLAB Poker Tool</title>
       <link>http://www3.nd.edu/~mfabian1/project/poker/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www3.nd.edu/~mfabian1/project/poker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://www3.nd.edu/~mfabian1/project/wordsearch/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www3.nd.edu/~mfabian1/project/wordsearch/</guid>
       <description></description>
     </item>
     
